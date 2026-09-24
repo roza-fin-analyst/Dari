@@ -1,0 +1,16 @@
+{
+  "name": "Dari: Learn Korean",
+  "short_name": "Dari",
+  "description": "A free, cute, gamified way to learn Korean (and Arabic) with a mascot tutor.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF7FA",
+  "theme_color": "#C93A6B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
